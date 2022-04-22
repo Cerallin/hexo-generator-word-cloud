@@ -1,0 +1,31 @@
+{
+  "name": "hexo-generator-word-cloud",
+  "version": "1.0.0",
+  "description": "A hexo plugin to generate word cloud.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cerallin/hexo-generator-word-cloud.git"
+  },
+  "keywords": [
+    "hexo",
+    "word-cloud"
+  ],
+  "author": "Cerallin <cerallin@cerallin.top>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Cerallin/hexo-generator-word-cloud/issues"
+  },
+  "homepage": "https://github.com/Cerallin/hexo-generator-word-cloud#readme",
+  "dependencies": {
+    "canvas": "^2.9.1",
+    "d3-cloud": "^1.2.5",
+    "nodejieba": "^2.6.0"
+  },
+  "bin": {
+    "word_count": "bin/word_count.py"
+  }
+}
