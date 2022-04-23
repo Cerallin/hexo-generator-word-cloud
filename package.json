@@ -1,6 +1,6 @@
 {
   "name": "@cerallin/hexo-generator-word-cloud",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A hexo plugin to generate word cloud.",
   "main": "index.js",
   "scripts": {
