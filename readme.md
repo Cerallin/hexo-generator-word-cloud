@@ -25,7 +25,6 @@ word_cloud:
   mask_image_color: source/_jieba/mask-color.png
   max_font_size: 80
   min_font_size: 4
-  image_format: svg
 
   # User dicts
   user_dict: source/_jieba/user_dict.utf-8
@@ -36,4 +35,4 @@ word_cloud:
 
 - [x] specify mask image
 - [x] specify stop words
-- [ ] more options for word_cloud
+- [ ] support PNG format
