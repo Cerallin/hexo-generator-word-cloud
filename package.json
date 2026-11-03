@@ -22,7 +22,7 @@
   "homepage": "https://github.com/Cerallin/hexo-generator-word-cloud#readme",
   "dependencies": {
     "canvas": "^3.0.0",
-    "d3-cloud": "^1.2.7",
+    "d3-cloud": "^2.0.0",
     "nodejieba": "^3.4.4"
   }
 }
